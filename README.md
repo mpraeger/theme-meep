@@ -1,8 +1,9 @@
 ## cbjohnson theme
 
-A minimal theme forked from the [yimmy][yimmy-commit] theme (thanks [jhillyerd][yimmy-author]!)
+A minimal theme forked from the [cbjohnson][cbjohnson-theme] [yimmy][yimmy-commit] themes (thanks [jhillyerd][yimmy-author] and [charlesbjohnson][cbjohnson-author]!)
 
-![screenshot](https://cloud.githubusercontent.com/assets/4823640/5327427/6f9e61bc-7d02-11e4-9223-38ddbed176c8.png)
-
+[cbjohnson-theme]: https://github.com/oh-my-fish/theme-cbjohnson
 [yimmy-commit]: https://github.com/bpinto/oh-my-fish/tree/3a4b7de689cabf3522227f51177a489d915c8b4d/themes/yimmy
 [yimmy-author]: https://github.com/jhillyerd
+[cbjohnson-author]: https://github.com/charlesbjohnson
+

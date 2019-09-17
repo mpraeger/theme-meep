@@ -11,7 +11,7 @@ function fish_prompt
       case 0
         set -g __fish_prompt_char \u276f\u276f
       case '*'
-        set -g __fish_prompt_char »
+        set -g __fish_prompt_char \$
     end
   end
 
@@ -35,7 +35,7 @@ function fish_prompt
   end
 
   # Top
-  echo -n $cyan$USER$normal at $yellow$__fish_prompt_hostname$normal in $bred(prompt_pwd)$normal
+  echo -n $cyan$USER@$__fish_prompt_hostname$normal:$normal(prompt_pwd)$normal
   __fish_git_prompt
 
   echo
